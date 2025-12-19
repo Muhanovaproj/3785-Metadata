@@ -11,7 +11,7 @@ workflows:
         - appstore-connect
       vars:
         IOS_BUNDLE_ID: com.muhanovaproj.app
-        APP_NAME: Orchard Clash
+        APP_NAME: Orchard Clash Mix
 
     scripts:
       - name: Print working dir & contents
